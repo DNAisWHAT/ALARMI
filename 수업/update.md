@@ -3,8 +3,8 @@
 ## 23.06.05
 
 - 이창훈 교수님 : 기초화학  
-  [링크](<https://raw.githubusercontent.com/DNAisWHAT/ALARMI/수업/1학년/원예 계열 공통 /이창훈교수님_기초화학>)
+  [링크](https://knuaf.info/%EC%88%98%EC%97%85/1%ED%95%99%EB%85%84/%EC%9B%90%EC%98%88%20%EA%B3%84%EC%97%B4%20%EA%B3%B5%ED%86%B5%20/%EC%9D%B4%EC%B0%BD%ED%9B%88%EA%B5%90%EC%88%98%EB%8B%98_%EA%B8%B0%EC%B4%88%ED%99%94%ED%95%99)
 - 우영회 교수님 : 시설원예총론A  
-  [링크](https://raw.githubusercontent.com/DNAisWHAT/ALARMI/수업/1학년/학과/원예/원예환경시스템전공/우영회교수님_시설원예총론A)
+  [링크](https://knuaf.info/%EC%88%98%EC%97%85/1%ED%95%99%EB%85%84/%ED%95%99%EA%B3%BC/%EC%9B%90%EC%98%88/%EC%9B%90%EC%98%88%ED%99%98%EA%B2%BD%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%A0%84%EA%B3%B5/%EC%9A%B0%EC%98%81%ED%9A%8C%EA%B5%90%EC%88%98%EB%8B%98_%EC%8B%9C%EC%84%A4%EC%9B%90%EC%98%88%EC%B4%9D%EB%A1%A0A)
 - 김진진 교수님 : 농수산창업설계(원예A,B,C)  
-  [링크](<https://raw.githubusercontent.com/DNAisWHAT/ALARMI/수업/1학년/원예 계열 공통 /김진진교수님_농수산창업설계(원예,A,B,C)>)
+  [링크](<https://knuaf.info/%EC%88%98%EC%97%85/1%ED%95%99%EB%85%84/%EC%9B%90%EC%98%88%20%EA%B3%84%EC%97%B4%20%EA%B3%B5%ED%86%B5%20/%EA%B9%80%EC%A7%84%EC%A7%84%EA%B5%90%EC%88%98%EB%8B%98_%EB%86%8D%EC%88%98%EC%82%B0%EC%B0%BD%EC%97%85%EC%84%A4%EA%B3%84(%EC%9B%90%EC%98%88,A,B,C)>)
