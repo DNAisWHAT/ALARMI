@@ -1,7 +1,7 @@
 
 ## 2학기 시작!!
 
-<img src="https://s12.gifyu.com/images/Su18Z.gif" width="600" height="400" />.
+<img src="https://s12.gifyu.com/images/Su18Z.gif" width="600" height="400" />
 
 # 과목 업데이트 내역
 
